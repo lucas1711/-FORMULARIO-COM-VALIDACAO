@@ -15,3 +15,6 @@ QUEST HTML + CSS + JS INTERMEDIÁRIO
 -  quando um campo for preenchido, na mesma
 hora a borda do input deve ficar verde e o
 texto "campo obrigatório" deve sumir.
+
+## DEPLOY DO FORMULARIO.
+- https://lucas1711.github.io/FORMULARIO-COM-VALIDACAO/
